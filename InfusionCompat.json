@@ -3,343 +3,343 @@
     "Acyclovir": {
       "category": "secondaries",
       "aliases": [
-        "secondary"
+        "Acyclovir"
       ]
     },
     "Albumin Human": {
       "category": "secondaries",
       "aliases": [
-        "secondary"
+        "Albumin"
       ]
     },
     "Amiodarone hydrochloride": {
       "category": "antiarrhythmic",
       "aliases": [
-        "bolus_capable"
+        "Amiodarone"
       ]
     },
     "Angiotensin II": {
       "category": "vasoactives",
       "aliases": [
-        "bolus_capable"
+        "Angiotensin II"
       ]
     },
     "Argatroban": {
       "category": "misc",
       "aliases": [
-        "continuous"
+        "Argatroban"
       ]
     },
     "Bivalirudin (Angiomax)": {
       "category": "misc",
       "aliases": [
-        "continuous"
+        "Angiomax"
       ]
     },
     "Bumetanide (Bumex)": {
       "category": "misc",
       "aliases": [
-        "continuous"
+        "Bumex"
       ]
     },
     "Calcium chloride": {
       "category": "secondaries",
       "aliases": [
-        "secondary"
+        "Calcium chloride"
       ]
     },
     "Calcium gluconate": {
       "category": "secondaries",
       "aliases": [
-        "secondary"
+        "Calcium gluconate"
       ]
     },
     "CefTRIAXone sodium": {
       "category": "secondaries",
       "aliases": [
-        "secondary"
+        "Ceftriaxone"
       ]
     },
     "Cefepime hydrochloride": {
       "category": "secondaries",
       "aliases": [
-        "secondary"
+        "Cefepime"
       ]
     },
     "Cetirizine": {
       "category": "secondaries",
       "aliases": [
-        "secondary"
+        "Cetirizine"
       ]
     },
     "Cisatracurium besylate (Nimbex)": {
       "category": "sedatives",
       "aliases": [
-        "bolus_capable"
+        "Nimbex"
       ]
     },
     "Clevidipine (Cleviprex)": {
       "category": "vasoactives",
       "aliases": [
-        "continuous"
+        "Cleviprex"
       ]
     },
     "DOBUTamine hydrochloride": {
       "category": "vasoactives",
       "aliases": [
-        "continuous"
+        "Dobutamine"
       ]
     },
     "DOPamine hydrochloride": {
       "category": "vasoactives",
       "aliases": [
-        "continuous"
+        "Dopamine"
       ]
     },
     "Dexmedetomidine hydrochloride (Precedex)": {
       "category": "sedatives",
       "aliases": [
-        "continuous"
+        "Precedex"
       ]
     },
     "DilTIAZem hydrochloride": {
       "category": "antiarrhythmic",
       "aliases": [
-        "continuous"
+        "DilTIAZem"
       ]
     },
     "Doxycycline hyclate": {
       "category": "secondaries",
       "aliases": [
-        "secondary"
+        "Doxycycline"
       ]
     },
     "EPINEPHrine (base)/EPINEPHrine hydrochloride": {
       "category": "vasoactives",
       "aliases": [
-        "continuous"
+        "Epinephrine"
       ]
     },
     "FentaNYL citrate": {
       "category": "sedatives",
       "aliases": [
-        "bolus_capable"
+        "Fentanyl"
       ]
     },
     "Folic acid (as sodium salt)": {
       "category": "secondaries",
       "aliases": [
-        "secondary"
+        "Folic acid"
       ]
     },
     "HYDROmorphone hydrochloride": {
       "category": "sedatives",
       "aliases": [
-        "bolus_capable"
+        "HYDROmorphone"
       ]
     },
     "Heparin sodium": {
       "category": "misc",
       "aliases": [
-        "continuous"
+        "Heparin"
       ]
     },
     "Insulin regular": {
       "category": "misc",
       "aliases": [
-        "continuous"
+        "Insulin"
       ]
     },
     "LevETIRAcetam": {
       "category": "secondaries",
       "aliases": [
-        "secondary"
+        "Keprra"
       ]
     },
     "Lidocaine hydrochloride": {
       "category": "antiarrhythmic",
       "aliases": [
-        "bolus_capable"
+        "Lidocaine"
       ]
     },
     "Linezolid": {
       "category": "secondaries",
       "aliases": [
-        "secondary"
+        "Linezolid"
       ]
     },
     "Magnesium sulfate": {
       "category": "secondaries",
       "aliases": [
-        "secondary"
+        "Magnesium sulfate"
       ]
     },
     "Meropenem": {
       "category": "secondaries",
       "aliases": [
-        "secondary"
+        "Meropenem"
       ]
     },
     "MethylPREDNISolone sodium succinate": {
       "category": "secondaries",
       "aliases": [
-        "continuous"
+        "MethylPREDNISolone"
       ]
     },
     "Methylene blue": {
       "category": "dedicated",
       "aliases": [
-        "continuous"
+        "Methylene Blue"
       ]
     },
     "Midazolam hydrochloride (Versed)": {
       "category": "sedatives",
       "aliases": [
-        "bolus_capable"
+        "Versed"
       ]
     },
     "Milrinone lactate": {
       "category": "vasoactives",
       "aliases": [
-        "continuous"
+        "Milrinone"
       ]
     },
     "NiCARdipine hydrochloride": {
       "category": "vasoactives",
       "aliases": [
-        "continuous"
+        "Nicardipine"
       ]
     },
     "Norepinephrine bitartrate": {
       "category": "vasoactives",
       "aliases": [
-        "continuous"
+        "Levophed"
       ]
     },
     "Pantoprazole sodium": {
       "category": "misc",
       "aliases": [
-        "continuous"
+        "Protonix"
       ]
     },
     "Phenylephrine hydrochloride": {
       "category": "vasoactives",
       "aliases": [
-        "continuous"
+        "Phenylephrine"
       ]
     },
     "Piperacillin sodium-tazobactam sodium": {
       "category": "secondaries",
       "aliases": [
-        "secondary"
+        "Zosyn"
       ]
     },
     "Potassium chloride": {
       "category": "secondaries",
       "aliases": [
-        "secondary"
+        "Potassium chloride"
       ]
     },
     "Potassium phosphates": {
       "category": "secondaries",
       "aliases": [
-        "secondary"
+        "Potassium phosphates"
       ]
     },
     "Propofol": {
       "category": "sedatives",
       "aliases": [
-        "bolus_capable"
+        "Propofol"
       ]
     },
     "Sodium bicarbonate": {
       "category": "misc",
       "aliases": [
-        "continuous"
+        "Sodium bicarbonate"
       ]
     },
     "Sodium phosphates": {
       "category": "secondaries",
       "aliases": [
-        "secondary"
+        "Sodium phosphates"
       ]
     },
     "Thiamine hydrochloride": {
       "category": "secondaries",
       "aliases": [
-        "secondary"
+        "Thiamine"
       ]
     },
     "Vancomycin hydrochloride": {
       "category": "secondaries",
       "aliases": [
-        "secondary"
+        "Vancomycin"
       ]
     },
     "Vasopressin": {
       "category": "vasoactives",
       "aliases": [
-        "continuous"
+        "Vasopressin"
       ]
     },
     "Dextrose 10% in Water (D10W)": {
       "category": "ivfluids",
       "aliases": [
-        "continuous"
+        "D10W"
       ]
     },
     "Dextrose 5% in Water (D5W)": {
       "category": "ivfluids",
       "aliases": [
-        "continuous"
+        "D5W"
       ]
     },
     "Dextrose 5% in sodium chloride 0.45% (D5 1/2 NS)": {
       "category": "ivfluids",
       "aliases": [
-        "continuous"
+        "D5 1/2 NS"
       ]
     },
     "Dextrose 5% in sodium chloride 0.9% (D5NS)": {
       "category": "ivfluids",
       "aliases": [
-        "continuous"
+        "D5NS"
       ]
     },
     "Lactated Ringer's (LR)": {
       "category": "ivfluids",
       "aliases": [
-        "continuous"
+        "LR"
       ]
     },
     "Normal Saline (NS)": {
       "category": "ivfluids",
       "aliases": [
-        "continuous"
+        "NS"
       ]
     },
     "Sodium Chloride 0.45% (1/2 NS)": {
       "category": "ivfluids",
       "aliases": [
-        "continuous"
+        "1/2 NS"
       ]
     },
     "TPN": {
       "category": "dedicated",
       "aliases": [
-        "continuous"
+        "TPN"
       ]
     },
     "3% Saline": {
       "category": "dedicated",
       "aliases": [
-        "continuous"
+        "3% Saline"
       ]
     },
     "Blood Product": {
       "category": "dedicated",
       "aliases": [
-        "continuous"
+        "Blood Product"
       ]
     }
   },
